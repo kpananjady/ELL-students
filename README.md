@@ -11,10 +11,8 @@ The text of the story was a final project for my Writing with Data class, and th
 Skills:
 pandas, matplotlib, d3, reporting, writing. 
 
-Codebook for the data here:
+Codebook for the data here: https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/test-results
 
-Borough results:
-borough-ela-results-2013-2019-(public).xlsx
+Borough results: borough-ela-results-2013-2019-(public).xlsx
 
-Bronx school data 
-Bronx ELL - Sheet1.csv
+Bronx school data : Bronx ELL - Sheet1.csv
