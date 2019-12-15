@@ -9,7 +9,7 @@ In the ELL pitch jupyter notebook, you'll see me explore borough-wise results, z
 The text of the story was a final project for my Writing with Data class, and the visual was part of the final project for my d3 class. 
 
 Skills:
-pandas, matplotlib, d3, reporting, writing. 
+Python, pandas, matplotlib, d3, reporting, writing. 
 
 Codebook for the data here: https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/test-results
 
